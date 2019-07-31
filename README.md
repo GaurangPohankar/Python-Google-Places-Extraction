@@ -1,0 +1,2 @@
+# Python-Google-Places-Extraction
+Python script to scrape the data from the google places with reviews , website , name , total reviews , phone number etc . and stores it into CSV file . The simple GUI is created with tkinter to ease the process . It is simple automation process with the selenium and beautiful soap for processing the HTML content .  Processing file are the stepping stones to get here. 
