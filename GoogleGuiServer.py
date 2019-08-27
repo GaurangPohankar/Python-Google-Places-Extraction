@@ -111,10 +111,10 @@ class Begueradj(tkinter.Frame):
             #pymsgbox.alert('Please Check Your Internet Connection.', 'Alert')
             #exit(-1)
         mydb = mysql.connector.connect(
-          host="96.125.162.131",
-          user="globaevn_jddata ",
-          passwd="NET@admin5857@",
-          database="globaevn_jddata"
+          host="######",
+          user="######",
+          passwd="#######",
+          database="######"
         )
         mycursor = mydb.cursor()
         search = self.dose_entry.get()
